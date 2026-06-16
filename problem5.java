@@ -1,4 +1,4 @@
-/* */
+/* accessing characters in string */
 
 class Solution
 {

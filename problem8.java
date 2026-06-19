@@ -2,7 +2,7 @@
 
 /* smallest number */
 
-class Solution
+class Solution8
 {
     public static int sumArray(int[] nums)
     {

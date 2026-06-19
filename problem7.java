@@ -1,6 +1,6 @@
 /* smallest number */
 
-class Solution
+class Solution7
 {
     public static int smallestNum(int[] nums)
     {

@@ -1,6 +1,6 @@
 /* accessing characters in string */
 
-class Solution
+class Solution5
 {
     public static void accessCharacters(String str)
     {

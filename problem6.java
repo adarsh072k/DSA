@@ -1,6 +1,6 @@
 /* largest number */
 
-class Solution
+class Solution6
 {
     public static int largestNum(int[] nums)
     {

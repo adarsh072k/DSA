@@ -1,6 +1,6 @@
 /* second largest number */
 
-class Solution
+class Solution9
 {
     public static int secondlargestNum(int[] nums)
     {

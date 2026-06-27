@@ -4,7 +4,7 @@
 import java.util.Arrays;
 class Solution12
 {
-    public int[] reverseArray(int[] nums)
+    public static int[] reverseArray(int[] nums)
     {
         int left=0;
         int right=nums.length-1;
@@ -16,8 +16,8 @@ class Solution12
             nums[right]=k;
             left++;
             right--;
-            return nums[];
         }
+        return nums;
     }
     public static void main(String[] args)
     {
@@ -26,3 +26,4 @@ class Solution12
         System.out.println(Arrays.toString(nums));
     }
 }
+

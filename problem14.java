@@ -11,7 +11,7 @@ output -
 
 */
 class Solution14 {
-    public void pattern1(int n) {
+    public static void pattern1(int n) {
         for(int i=0;i<n;i++)
         {
              for(int j=0;j<n;j++)
@@ -20,5 +20,10 @@ class Solution14 {
             }
             System.out.println();
         }
+    }
+    public static void main(String[] args)
+    {
+        int nums=3;
+        pattern1(nums);
     }
 }
